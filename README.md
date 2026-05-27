@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Tornike 👋
 
-<!--
-**tornike200/tornike200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer specializing in React, TypeScript, and modern web technologies.
 
-Here are some ideas to get you started:
+I also work as a Front-End Development Teacher, helping students learn modern frontend development and build real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- React
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Sass
+- Bootstrap
+- Git & GitHub
+- C# /.NET
+- SQL
+- Python
+
+## 💻 What I Do
+
+- Responsive Web Development
+- React Applications
+- Frontend UI Development
+- API Integration
+- Landing Pages
+- Modern Website Design
+
+## 🌱 Currently Learning
+
+- Advanced React Patterns
+- Frontend Architecture
+- Clean Code Practices
+- Full-Stack Development
+
+## 📫 Contact Me
+
+- LinkedIn: YOUR_LINK
+- Email: YOUR_EMAIL
+
+## ⚡ Fun Fact
+
+I enjoy teaching frontend development and building modern user-friendly web applications.
