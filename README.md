@@ -37,8 +37,8 @@ I also work as a Front-End Development Teacher, helping students learn modern fr
 
 ## 📫 Contact Me
 
-- LinkedIn: YOUR_LINK
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/tornike-kapanadze-7292b11b9/
+- Email: tornikek3@gmail.com
 
 ## ⚡ Fun Fact
 
